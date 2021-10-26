@@ -43,7 +43,7 @@ dash==2.0.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-dask @ file:///tmp/build/80754af9/dask-core_1594156306305/work
+dask 
 dateparser==1.0.0
 decorator==4.4.2
 defusedxml==0.6.0
