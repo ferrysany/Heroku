@@ -43,11 +43,9 @@ dash==2.0.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-dask 
 dateparser==1.0.0
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distlib==0.3.3
 distributed @ file:///C:/ci/distributed_1594742844291/work
 docutils==0.16
@@ -68,43 +66,28 @@ gmpy2==2.0.8
 greenlet==0.4.16
 h5py==2.10.0
 HeapDict==1.0.1
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
 hyperlink==20.0.1
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446511143/work
-importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1621969791255/work
 incremental==17.5.0
-intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
-ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593447482397/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
-jedi @ file:///C:/ci/jedi_1592833825077/work
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyterlab==2.1.5
-jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 kaggle==1.5.8
-keyring @ file:///C:/ci/keyring_1593109799227/work
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
-lxml @ file:///C:/ci/lxml_1594822774489/work
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
@@ -121,17 +104,13 @@ mysql-connector-python==8.0.22
 navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.7
-networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
-nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
 nose==1.3.7
 notebook==6.0.3
 numba==0.50.1
 numexpr==2.7.1
 numpy==1.18.5
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 oauthlib==3.1.0
 olefile==0.46
-openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1592833613419/work
 pandocfilters==1.4.2
@@ -145,8 +124,6 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///C:/ci/pillow_1594298230227/work
-Pint @ file:///home/conda/feedstock_root/build_artifacts/pint_1616436262198/work
 pkginfo==1.5.0.1
 platformdirs==2.4.0
 plotly==5.3.1
@@ -156,15 +133,12 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==3.14.0
 psutil==5.7.0
-py @ file:///tmp/build/80754af9/py_1593446248552/work
 py4j==0.10.9
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.6.0
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycurl==7.43.0.5
-pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyflakes==2.2.0
 Pygments==2.6.1
 PyHamcrest==2.0.2
