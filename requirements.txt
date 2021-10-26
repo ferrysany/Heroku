@@ -134,11 +134,11 @@ pycurl==7.43.0.5
 pyflakes==2.2.0
 Pygments==2.6.1
 PyHamcrest==2.0.2
-pylint @ file:///C:/ci/pylint_1592482039483/work
+pylint 
 PyMySQL==0.10.1
-PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
+PyNaCl
 pyodbc===4.0.0-unsupported
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyOpenSSL 
 pyparsing==2.4.7
 pyreadline==2.1
 pyrsistent==0.16.0
@@ -147,8 +147,8 @@ pyspark==3.1.2
 pytest==5.4.3
 python-dateutil==2.8.1
 python-facebook-api==0.9.0
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
+python-jsonrpc-server 
+python-language-server 
 python-slugify==4.0.1
 pytz==2020.1
 PyWavelets==1.1.1
@@ -159,10 +159,10 @@ PyYAML==5.3.1
 pyzmq==19.0.1
 QDarkStyle==2.8.1
 QtAwesome==0.7.2
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
+qtconsole 
 QtPy==1.9.0
-regex @ file:///C:/ci/regex_1593419644658/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+regex 
+requests 
 requests-oauthlib==1.3.0
 responses==0.13.2
 retrying==1.3.3
@@ -170,8 +170,8 @@ rope==0.17.0
 Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.16.2
-scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
+scikit-learn 
+scipy 
 seaborn==0.10.1
 Send2Trash==1.5.0
 service-identity==18.1.0
