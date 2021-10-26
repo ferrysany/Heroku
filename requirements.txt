@@ -86,7 +86,7 @@ mccabe==0.6.1
 mistune==0.8.4
 mkl-fft
 mkl-random
-mkl-service==2.3.0
+mkl-service
 mock==4.0.2
 modsimpy==1.1.3
 more-itertools==8.4.0
