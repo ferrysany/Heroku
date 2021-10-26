@@ -104,7 +104,7 @@ numpy==1.18.5
 oauthlib==3.1.0
 olefile==0.46
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
+pandas
 pandocfilters==1.4.2
 paramiko==2.7.1
 parso==0.7.0
