@@ -1,1 +1,1 @@
-web: gunicorn app:server
+web: gunicorn m4_tree.py:server
